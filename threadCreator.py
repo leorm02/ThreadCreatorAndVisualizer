@@ -103,7 +103,7 @@ class myThread (threading.Thread):
         print_time(self.name, self.counter,  5)
         print("exiting " + self.name)
         tempo = tempo + int(round(time.time() * 1000))
-        values.append(tempo)
+        values.insert(self.threadID, tempo)
 
 def print_time(threadName, delay, counter):
     while counter:        
