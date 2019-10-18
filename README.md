@@ -13,3 +13,14 @@ Install urwid module of python by typing:
     sudo pip3 install urwid
 
 You can install cool-retro-term by following [this](https://github.com/Swordfish90/cool-retro-term/blob/master/README.md) guide
+
+## Usage
+
+Download file from github:
+
+        https://github.com/leorm02/ThreadCreatorAndVisualizer.git
+     
+Execute Software:
+
+        cd ThreadCreatorAndVisualizer
+        python threadCreator.py
