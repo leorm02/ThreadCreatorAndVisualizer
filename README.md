@@ -11,3 +11,5 @@ recommended use with retro-cool-terminal
 Install urwid module of python by typing:
     
     sudo pip3 install urwid
+
+You can install cool-retro-term by following [this](https://github.com/Swordfish90/cool-retro-term/blob/master/README.md) guide
