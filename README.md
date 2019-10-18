@@ -18,7 +18,7 @@ You can install cool-retro-term by following [this](https://github.com/Swordfish
 
 Download file from github:
 
-        https://github.com/leorm02/ThreadCreatorAndVisualizer.git
+        git clone https://github.com/leorm02/ThreadCreatorAndVisualizer.git
      
 Execute Software:
 
