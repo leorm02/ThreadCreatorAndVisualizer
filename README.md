@@ -9,5 +9,5 @@ recommended use with retro-cool-terminal
 ## Install
 
 Install urwid module of python by typing:
-  
-  sudo pip3 install urwid
+    
+    sudo pip3 install urwid
