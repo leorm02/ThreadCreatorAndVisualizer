@@ -2,7 +2,7 @@
 Python program which create thread and visualize thread execution time through a python module called urwid
 recommended use with retro-cool-terminal
 ## Screenshots
-![Image](<https://i.imgur.com/TNumkDn.png>)
+![Image](<https://i.imgur.com/E4ImUYi.png>)
 ![Image](<https://i.imgur.com/hfjWOM4.png>)
 ![Image](<https://i.imgur.com/GYRDPzJ.jpg>)
 
