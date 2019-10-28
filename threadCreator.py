@@ -131,7 +131,7 @@ class MyTerminal(urwid.WidgetWrap):
 
 def createThread(nThread):
     for i in range(nThread):
-        delay = i+1 
+        delay = 5 
         threadName = "Thread-"+str(i)
 
         newThread = myThread(i, threadName, delay)
